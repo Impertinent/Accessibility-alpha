@@ -1,7 +1,7 @@
 # Accessibility-alpha
 Starter for UI adhering to universal design principles.
 
-Goals
+Goals/To Dos
 Quick startup with a bootstrap theme that addresses:
 - contrast
 - semantic page mockups using individual components
