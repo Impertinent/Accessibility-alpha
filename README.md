@@ -1,8 +1,11 @@
-# Accessibility-alpha
-Starter for UI adhering to universal design principles.
+# Accessibility-Alpha 
+Version 1.0
 
+## Starter for UI adhering to universal design principles.
+
+## Overview
 Goals/To Dos
-Quick startup with a bootstrap theme that addresses:
+Quick startup with a bootstrap theme which addresses:
 - contrast
 - semantic page mockups using individual components
 - navigation examples using multi-device common denominators
