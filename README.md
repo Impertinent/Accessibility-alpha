@@ -11,5 +11,5 @@ Quick startup with a bootstrap theme which addresses:
 - navigation examples using multi-device common denominators
 - address structure for site directory (MVC?) 
 - naming conventions guidelines (images, classes, filenames, directory names) etc that respects semantic, seo, accessiblity, and optimal performance. 
-- Font stack to accommodate more wisened vision
+- Font stack to accommodate challenged vision
 
